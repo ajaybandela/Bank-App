@@ -28,6 +28,7 @@ public class Main {
         System.out.println(user.calculateInterest(10));
 
         System.out.println("This is a change");
+        System.out.println("This is a change");
 
     }
 }
